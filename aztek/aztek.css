@@ -1,0 +1,75 @@
+.background{
+  background-color: #D3D3D3;
+}
+#logo{
+  height: 100px;
+  padding-top: 10px;
+}
+
+#middle-nav{
+  padding-top: 10px;
+  background-color: rgb(128,118,86);
+}
+
+#middle-nav p{
+  padding-top: 10px;
+  font-family: Helvetica Neue;
+  font-size: 25px;
+  word-spacing: 2px;
+  color: white;
+  text-align: center;
+
+
+}
+
+#right-nav{
+  padding-top: 25px;
+}
+#right-nav ul{
+  display:inline;
+}
+
+#right-nav li{
+  font-size: 15px;
+  display:inline;
+  word-spacing: 15px
+}
+
+#buy {
+  padding-bottom: 5px;
+
+}
+
+#NEWS-TXT{
+  font-family: Helvetica Neue;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#SCHED-TXT{
+  font-family: Helvetica Neue;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+#COMM-TXT{
+  font-family: Helvetica Neue;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#footer-right{
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#footer-left{
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
